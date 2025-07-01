@@ -85,7 +85,7 @@ const Home = () => {
             className="text-4xl md:text-6xl font-bold mb-6 leading-tight"
           >
             Soluções Inteligentes em
-            <span className="block text-[#e6e8ea]">rporação Imobiliária</span>
+            <span className="block text-[#e6e8ea]">Incorporação Imobiliária</span>
           </motion.h1>
           
           <motion.p
