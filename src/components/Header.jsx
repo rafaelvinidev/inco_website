@@ -30,7 +30,7 @@ const Header = () => {
   const { company } = content;
 
   const navigation = [
-    { name: 'Home', href: '/' },
+    { name: 'Home szx', href: '/' },
     { name: 'Serviços', href: '/servicos' },
     { name: 'Projetos Inc.O', href: '/projetos' },
     { name: 'Sobre Nós', href: '/sobre' },
